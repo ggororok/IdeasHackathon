@@ -1,9 +1,4 @@
-# activities
-<U> </U>
-
-### 공모전
+# IdeasHackathon
 <U> </U>
 
 
-### 프로젝트
-<U> </U>
